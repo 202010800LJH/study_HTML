@@ -1,2 +1,2 @@
-# clever-student
-HTML 자습
+# HTML/CSS/Js
+HTML 스터디
