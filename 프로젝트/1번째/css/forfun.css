@@ -1,0 +1,14 @@
+header{
+  border: 1px solid;
+}
+body{
+  border: 1px solid;
+  margin: 100px;
+}
+body > p{
+  font-size: large;
+  font-weight: bold;
+}
+footer{
+  border: 1px solid;
+}
